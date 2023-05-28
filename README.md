@@ -1,2 +1,2 @@
 # .github
-Information
+Information regarding our organization
