@@ -3,7 +3,7 @@
 <h3>Welcome to VoidedSky! 👋</h3>
 
 💬 Join our Discord community [by clicking here](https://discord.gg/voidedsky) <br>
-🧙 View other public repositories [by clicking here](https://github.com/orgs/VoidedSky/repositories)
+🧙 View other public repositories [by clicking here](https://github.com/orgs/VoidedSky/repositories?q=&type=public&language=&sort=)
 
 ❓ If you need help, you can open a ticket on our Discord server.
 
